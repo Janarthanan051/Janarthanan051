@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Janarthanan.M</h1>
-<h3 align="center">A passionate ux/ui designer from Indiap</h3>
+<h3 align="center">A passionate Web developer from Indiap</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janarthanan051&label=Profile%20views&color=0e75b6&style=flat" alt="janarthanan051" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janarthanan051" alt="janarthanan051" /></a> </p>
 
-- 🌱 I’m currently learning **Ux/ui designing**
+- 🌱 I’m currently learning **Fullstack development **
 
 - 📫 How to reach me **janapugazhipugazhi@gmail.com**
 
